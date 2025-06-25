@@ -211,6 +211,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
