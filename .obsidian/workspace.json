@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "be3d610fc1258824",
+    "type": "split",
+    "children": [
+      {
+        "id": "a45c079e9c03c762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ad17de1681e81d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows_OC/SpeedTest.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "SpeedTest"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0eda6a2e1cabca8",
+    "type": "split",
+    "children": [
+      {
+        "id": "18c16b14d9b0782f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e47975fa4b81f00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "feef4f29d87d5989",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "создать",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "2d64078d457a52c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "a33813532ccb7b8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e13fda43ee2646ef",
+        "type": "tabs",
+        "dimension": 47.62253108997807,
+        "children": [
+          {
+            "id": "ea93bee0ffa75002",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian-i-study-Java/My study Java on Skillbox/My study for Java on Skilldox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для My study for Java on Skilldox"
+            }
+          },
+          {
+            "id": "8b7f8707eb83d163",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian-i-study-Java/My study Java on Skillbox/My study for Java on Skilldox.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из My study for Java on Skilldox"
+            }
+          },
+          {
+            "id": "e2431b38eacf72ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "15300b8815810741",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "188f2f71c74f63a0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": "name"
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "6b1c3572112ea22b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "14e775f38927cd0c",
+        "type": "tabs",
+        "dimension": 52.37746891002193,
+        "children": [
+          {
+            "id": "3b689122cb5016ae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false,
+      "random-note:Открыть случайную заметку": false,
+      "workspaces:Пространства": false,
+      "publish:Публикация изменений": false,
+      "graph:Граф": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "quickadd:QuickAdd": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+    }
+  },
+  "active": "5e47975fa4b81f00",
+  "lastOpenFiles": [
+    "desktop.ini",
+    "README.md",
+    "Obsidian/Obsidian Github - синхронизация, бекап и версионность (3-в-1).md",
+    "DB_Obsidian",
+    "Study Java/Git/GIT.md",
+    "Obsidian/Волков объясняет настройку собственной синхронизации Obsidian.md",
+    "Windows_OC/SpeedTest.md",
+    "Obsidian/Syncthing- как бесплатно пользоваться Obsidian Sync на Android и синхронизировать папки на ПК и моби.md",
+    "Drawing 2025-06-19 14.55.51.excalidraw.md",
+    "Study Java/Project/resourses/application.properties/1.name.md",
+    "Obsidian/plugins and links.md",
+    "Добро пожаловать.md",
+    "Windows_OC/Как исправить 100% загрузку ЦП в Windows 10.md",
+    "Excalidraw/Drawing 2025-06-17 09.27.44.excalidraw.md",
+    "Windows_OC",
+    "Excalidraw/Drawing 2025-06-17 09.24.28.excalidraw.md",
+    "Drawing 2025-06-17 09.47.07.excalidraw.md",
+    "Excalidraw/Drawing 2025-06-17 09.44.38.excalidraw.md",
+    "docker-compose.yml.md",
+    "Excalidraw/Drawing 2025-06-17 09.31.32.excalidraw.md",
+    "Excalidraw",
+    "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
+    "Obsidian/plugins",
+    "Obsidian",
+    "Obsidian-i-study-Java/Без названия",
+    "Study Java/Project/docker-compose.yml/2.posgresql.md",
+    "Study Java/Project/resourses/application.properties/3.port.md",
+    "Study Java/Project/resourses/application.properties/5.bot.md",
+    "application.properties.md",
+    "Study Java/Git",
+    "Obsidian-i-study-Java/My study Java on Skillbox/templates/Table.md",
+    "Obsidian-i-study-Java/_My study for Java on Skilldox.md",
+    "Study Java/My study Java on Skillbox/Mockito.md",
+    "Study Java/Project/docker-compose.yml",
+    "Study Java/Project/resourses",
+    "Study Java/Project/resourses/application.properties"
+  ]
+}
