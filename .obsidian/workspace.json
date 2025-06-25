@@ -4,73 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a45c079e9c03c762",
+        "id": "1b1a8de12a9c90e0",
         "type": "tabs",
         "children": [
           {
-            "id": "6ad17de1681e81d0",
+            "id": "dd3aa83d3f9a2edd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows_OC/SpeedTest.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SpeedTest"
-            }
-          },
-          {
-            "id": "cf5384e017e0f2ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows_OC/SpeedTest.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SpeedTest"
-            }
-          },
-          {
-            "id": "9a03f962671d9f7e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.speedtest.net/",
-                "title": "Speedtest by Ookla - The Global Broadband Speed Test",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Speedtest by Ookla - The Global Broadband Speed Test"
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a03f962671d9f7e",
+  "active": "5e47975fa4b81f00",
   "lastOpenFiles": [
     "Windows_OC/SpeedTest.md",
     "README.md",
