@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Git/GIT.md",
+                "file": "Windows_OC/SpeedTest.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "SpeedTest"
             }
           }
         ],
@@ -251,14 +251,15 @@
       "obsidian-importer:Open Importer": false,
       "quickadd:QuickAdd": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "cf5384e017e0f2ee",
   "lastOpenFiles": [
-    "Без названия.md",
-    "Study Java/Git/GIT.md",
     "README.md",
+    "Study Java/Git/GIT.md",
+    "Без названия.md",
     "README.md.md",
     "Windows_OC/SpeedTest.md",
     "desktop.ini",
