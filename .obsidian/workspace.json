@@ -230,15 +230,16 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "6ad17de1681e81d0",
+  "active": "5e47975fa4b81f00",
   "lastOpenFiles": [
+    "Windows_OC/SpeedTest.md",
+    "README.md.md",
     "desktop.ini",
     "README.md",
     "Obsidian/Obsidian Github - синхронизация, бекап и версионность (3-в-1).md",
     "DB_Obsidian",
     "Study Java/Git/GIT.md",
     "Obsidian/Волков объясняет настройку собственной синхронизации Obsidian.md",
-    "Windows_OC/SpeedTest.md",
     "Obsidian/Syncthing- как бесплатно пользоваться Obsidian Sync на Android и синхронизировать папки на ПК и моби.md",
     "Drawing 2025-06-19 14.55.51.excalidraw.md",
     "Study Java/Project/resourses/application.properties/1.name.md",
@@ -266,7 +267,6 @@
     "Obsidian-i-study-Java/_My study for Java on Skilldox.md",
     "Study Java/My study Java on Skillbox/Mockito.md",
     "Study Java/Project/docker-compose.yml",
-    "Study Java/Project/resourses",
-    "Study Java/Project/resourses/application.properties"
+    "Study Java/Project/resourses"
   ]
 }
