@@ -1,0 +1,26 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "6O0tD6-iyNfh3tIWeugJ9",
+      "name": "blau",
+      "value": "#437489"
+    },
+    {
+      "id": "-JKRNeYYDM5ZRb0ZQ8d9L",
+      "name": "pink",
+      "value": "#752ca5"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Study Java/Project/docker-compose.yml",
+      "color": "6O0tD6-iyNfh3tIWeugJ9"
+    },
+    {
+      "path": "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
+      "color": "6O0tD6-iyNfh3tIWeugJ9"
+    }
+  ]
+}

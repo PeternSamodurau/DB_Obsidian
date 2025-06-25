@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "SpeedTest"
             }
+          },
+          {
+            "id": "9cc268da8b70e7e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian Github - синхронизация, бекап и версионность (3-в-1).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Github - синхронизация, бекап и версионность (3-в-1)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,8 +247,6 @@
       "workspaces:Пространства": false,
       "publish:Публикация изменений": false,
       "graph:Граф": false,
-      "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
       "quickadd:QuickAdd": false,
@@ -231,7 +254,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "5e47975fa4b81f00",
+  "active": "9cc268da8b70e7e5",
   "lastOpenFiles": [
     "desktop.ini",
     "README.md",
