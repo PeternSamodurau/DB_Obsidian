@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1b1a8de12a9c90e0",
+        "id": "76841ac4f002e35f",
         "type": "tabs",
         "children": [
           {
-            "id": "dd3aa83d3f9a2edd",
+            "id": "00cf5aa4bc4020b2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Без названия"
             }
           }
         ]
@@ -216,12 +230,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e47975fa4b81f00",
+  "active": "00cf5aa4bc4020b2",
   "lastOpenFiles": [
+    "Без названия.md",
     "Windows_OC/SpeedTest.md",
     "README.md",
     "Study Java/Git/GIT.md",
-    "Без названия.md",
     "README.md.md",
     "desktop.ini",
     "Obsidian/Obsidian Github - синхронизация, бекап и версионность (3-в-1).md",
