@@ -54,9 +54,23 @@
               "icon": "lucide-file",
               "title": "SpeedTest"
             }
+          },
+          {
+            "id": "9a03f962671d9f7e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.speedtest.net/",
+                "title": "Speedtest by Ookla - The Global Broadband Speed Test",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Speedtest by Ookla - The Global Broadband Speed Test"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,13 +269,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf5384e017e0f2ee",
+  "active": "9a03f962671d9f7e",
   "lastOpenFiles": [
+    "Windows_OC/SpeedTest.md",
     "README.md",
     "Study Java/Git/GIT.md",
     "Без названия.md",
     "README.md.md",
-    "Windows_OC/SpeedTest.md",
     "desktop.ini",
     "Obsidian/Obsidian Github - синхронизация, бекап и версионность (3-в-1).md",
     "DB_Obsidian",
