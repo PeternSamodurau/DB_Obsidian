@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "SpeedTest"
             }
+          },
+          {
+            "id": "cf5384e017e0f2ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Java/Git/GIT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "GIT"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,10 +255,11 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "5e47975fa4b81f00",
+  "active": "cf5384e017e0f2ee",
   "lastOpenFiles": [
-    "Windows_OC/SpeedTest.md",
+    "Без названия.md",
     "README.md.md",
+    "Windows_OC/SpeedTest.md",
     "desktop.ini",
     "README.md",
     "Obsidian/Obsidian Github - синхронизация, бекап и версионность (3-в-1).md",
@@ -265,7 +291,6 @@
     "Study Java/Git",
     "Obsidian-i-study-Java/My study Java on Skillbox/templates/Table.md",
     "Obsidian-i-study-Java/_My study for Java on Skilldox.md",
-    "Study Java/My study Java on Skillbox/Mockito.md",
     "Study Java/Project/docker-compose.yml",
     "Study Java/Project/resourses"
   ]
