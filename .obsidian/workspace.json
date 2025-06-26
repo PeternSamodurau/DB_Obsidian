@@ -11,10 +11,24 @@
             "id": "7366e117518455dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "README"
             }
           }
         ]
@@ -216,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e47975fa4b81f00",
+  "active": "7366e117518455dc",
   "lastOpenFiles": [
     "Без названия.md",
     "Windows_OC/SpeedTest.md",
