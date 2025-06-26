@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e376d8e0535a53f",
+        "id": "63dc99af26c70f9a",
         "type": "tabs",
         "children": [
           {
-            "id": "b345cf12daec8eca",
+            "id": "7366e117518455dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Git/GIT.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GIT"
-            }
-          },
-          {
-            "id": "b300f3355faee8a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "README"
             }
           }
         ],
@@ -255,7 +231,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "b300f3355faee8a3",
+  "active": "7366e117518455dc",
   "lastOpenFiles": [
     "Study Java/Git/GIT.md",
     "conflict-files-obsidian-git.md",
