@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a3853e9cfe88b1b",
+        "id": "63dc99af26c70f9a",
         "type": "tabs",
         "children": [
           {
-            "id": "785f9e349869365e",
+            "id": "7366e117518455dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -216,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "785f9e349869365e",
+  "active": "5e47975fa4b81f00",
   "lastOpenFiles": [
     "Без названия.md",
     "Windows_OC/SpeedTest.md",
