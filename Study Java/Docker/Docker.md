@@ -9,3 +9,8 @@
 ![[9.docker 1.jpg]]
 ![[10.docker 1.jpg]]
 ![[11.docker 1.jpg]]
+![[12.docker 1.jpg]]
+![[13.docker 1.jpg]]
+
+![[14.docker 1.jpg]]
+![[15.docker 1.jpg]]
