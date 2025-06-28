@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Docker/Docker.md",
+                "file": "Study Java/Git/GIT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "GIT"
             }
           }
         ],
@@ -255,8 +255,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed0fa8b903dece9d",
+  "active": "5e47975fa4b81f00",
   "lastOpenFiles": [
+    "Study Java/Docker/Docker.md",
     "17.docker 1.jpg",
     "16.docker 1.jpg",
     "15.docker 1.jpg",
@@ -267,9 +268,7 @@
     "10.docker 1.jpg",
     "9.docker 1.jpg",
     "8.docker 1.jpg",
-    "7.docker 1.jpg",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
-    "Study Java/Docker/Docker.md",
     "README.md",
     "Study Java/Docker",
     "Study Java/Project/resourses/Временная почта для тестов.md",
