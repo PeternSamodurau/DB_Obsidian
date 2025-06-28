@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Study Java/Docker/Docker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Docker"
             }
           }
         ],
@@ -257,11 +257,21 @@
   },
   "active": "ed0fa8b903dece9d",
   "lastOpenFiles": [
+    "1.docker 1.jpg",
+    "17.docker.jpg",
+    "16.docker.jpg",
+    "15.docker.jpg",
+    "14.docker.jpg",
+    "13.docker.jpg",
+    "12.docker.jpg",
+    "11.docker.jpg",
+    "10.docker.jpg",
+    "9.docker.jpg",
+    "8.docker.jpg",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
-    "Без названия.md",
+    "Study Java/Docker/Docker.md",
     "README.md",
     "Study Java/Docker",
-    "1.docker.jpg",
     "Study Java/Project/resourses/Временная почта для тестов.md",
     "Windows_OC/SpeedTest.md",
     "Study Java/Git/GIT.md",
