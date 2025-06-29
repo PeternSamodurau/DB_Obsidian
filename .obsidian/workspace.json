@@ -11,10 +11,12 @@
             "id": "89200f626aee1286",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "gemini-chat-view",
+              "state": {
+                "file": "Gemini Chats/New Chat.gemini"
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "New Chat"
             }
           }
         ]
@@ -194,11 +196,14 @@
       "quickadd:QuickAdd": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "chat-with-bard:New Gemini Chat": false
     }
   },
-  "active": "ea9db0df07ef55ed",
+  "active": "89200f626aee1286",
   "lastOpenFiles": [
+    "Gemini Chats/New Chat.gemini",
+    "Gemini Chats",
     "11.docker 1.jpg",
     "7.docker.jpg",
     "3.docker.jpg",
