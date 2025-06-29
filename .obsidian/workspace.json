@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "be3d610fc1258824",
+    "id": "997d95ad11e69dc8",
     "type": "split",
     "children": [
       {
-        "id": "5b0aac05757a654c",
+        "id": "6c42329b45861a9b",
         "type": "tabs",
         "children": [
           {
-            "id": "93488bf7f580afc2",
+            "id": "578c57dcbeba9efc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c0eda6a2e1cabca8",
+    "id": "add935c598880157",
     "type": "split",
     "children": [
       {
-        "id": "18c16b14d9b0782f",
+        "id": "4d7ec3301dcb1d0d",
         "type": "tabs",
         "children": [
           {
-            "id": "5e47975fa4b81f00",
+            "id": "ea9db0df07ef55ed",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +44,12 @@
             }
           },
           {
-            "id": "feef4f29d87d5989",
+            "id": "8b07aa70b371ac14",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "создать",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,37 +61,35 @@
             }
           },
           {
-            "id": "2d64078d457a52c5",
+            "id": "f7f775fa2d5cf94a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 300
   },
   "right": {
-    "id": "a33813532ccb7b8b",
+    "id": "d472d595ee23d560",
     "type": "split",
     "children": [
       {
-        "id": "e13fda43ee2646ef",
+        "id": "3509e16228d54219",
         "type": "tabs",
-        "dimension": 47.62253108997807,
         "children": [
           {
-            "id": "ea93bee0ffa75002",
+            "id": "b0109bf4e00e6910",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian-i-study-Java/My study Java on Skillbox/My study for Java on Skilldox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,31 +99,30 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для My study for Java on Skilldox"
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "8b7f8707eb83d163",
+            "id": "ae716a9774592277",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian-i-study-Java/My study Java on Skillbox/My study for Java on Skilldox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из My study for Java on Skilldox"
+              "title": "Исходящие ссылки"
             }
           },
           {
-            "id": "e2431b38eacf72ed",
+            "id": "04c11f3e48642f54",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -134,7 +131,21 @@
             }
           },
           {
-            "id": "15300b8815810741",
+            "id": "0da9730ecfdd3266",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "08ce98a3b26e65dd",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -148,39 +159,7 @@
             }
           },
           {
-            "id": "188f2f71c74f63a0",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": true,
-                "searchQuery": "name"
-              },
-              "icon": "lucide-archive",
-              "title": "Все свойства"
-            }
-          },
-          {
-            "id": "6b1c3572112ea22b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "14e775f38927cd0c",
-        "type": "tabs",
-        "dimension": 52.37746891002193,
-        "children": [
-          {
-            "id": "3b689122cb5016ae",
+            "id": "23600da2db4d8c8d",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -193,12 +172,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
@@ -208,51 +188,14 @@
       "random-note:Открыть случайную заметку": false,
       "workspaces:Пространства": false,
       "publish:Публикация изменений": false,
-      "graph:Граф": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
       "quickadd:QuickAdd": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93488bf7f580afc2",
-  "lastOpenFiles": [
-    "README.md",
-    "Study Java/Git/GIT.md",
-    "conflict-files-obsidian-git.md",
-    "application.properties.md",
-    "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
-    "Study Java/Project/resourses/Временная почта для тестов.md",
-    "Study Java/Project/resourses/application.properties/3.port.md",
-    "Study Java/Project/resourses/application.properties/6.rabbitmq.md",
-    "Study Java/Project/resourses/application.properties/1.name.md",
-    "Study Java/Project/resourses/application.properties/7.postgresql.md",
-    "Study Java/Project/resourses/application.properties/5.bot.md",
-    "Study Java/Project/resourses/application.properties/4.loger.md",
-    "Study Java/Project/resourses/application.properties/2.banner.md",
-    "Study Java/Project/docker-compose.yml/2.posgresql.md",
-    "Windows_OC/SpeedTest.md",
-    "Без названия.md",
-    "README.md.md",
-    "desktop.ini",
-    "Obsidian/Obsidian Github - синхронизация, бекап и версионность (3-в-1).md",
-    "DB_Obsidian",
-    "Obsidian/Волков объясняет настройку собственной синхронизации Obsidian.md",
-    "Obsidian/Syncthing- как бесплатно пользоваться Obsidian Sync на Android и синхронизировать папки на ПК и моби.md",
-    "Drawing 2025-06-19 14.55.51.excalidraw.md",
-    "Obsidian/plugins and links.md",
-    "Добро пожаловать.md",
-    "Windows_OC/Как исправить 100% загрузку ЦП в Windows 10.md",
-    "Excalidraw/Drawing 2025-06-17 09.27.44.excalidraw.md",
-    "Windows_OC",
-    "Excalidraw/Drawing 2025-06-17 09.24.28.excalidraw.md",
-    "Excalidraw",
-    "Obsidian/plugins",
-    "Obsidian",
-    "Obsidian-i-study-Java/Без названия",
-    "Study Java/Git",
-    "Study Java/Project/docker-compose.yml",
-    "Study Java/Project/resourses"
-  ]
+  "active": "578c57dcbeba9efc",
+  "lastOpenFiles": []
 }
