@@ -199,46 +199,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "floating": {
-    "id": "1dc5da46b28173f3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "fc3e6ca0c2f85a67",
-        "type": "window",
-        "children": [
-          {
-            "id": "6b15a76f369ad9ef",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "74cf0822ac3ce799",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://myaccount.google.com/security-checkup?continue=https://aistudio.google.com/app/apikey&flowType=1&hl=ru&rapt=AEjHL4PUwmNf6rnEBdMWWiQ5kWuKE0_D9IoAcv3pI9hOIKQ7p-HSzV9yLH8cVmJ0mBpdcrkmqsD0NySGgxoGgRS-EDBPULOygA&hl=ru&continue=https://accounts.google.com/ServiceLogin?continue%3Dhttps://aistudio.google.com/app/apikey%26hl%3Dru%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1&rapt=AEjHL4PUwmNf6rnEBdMWWiQ5kWuKE0_D9IoAcv3pI9hOIKQ7p-HSzV9yLH8cVmJ0mBpdcrkmqsD0NySGgxoGgRS-EDBPULOygA&pli=1",
-                    "title": "Проверка безопасности",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Проверка безопасности"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "74cf0822ac3ce799",
+  "active": "15689012b3a6d807",
   "lastOpenFiles": [
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
