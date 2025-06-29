@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c6737283bb1f677",
+        "id": "ab12ce0386a9c8dd",
         "type": "tabs",
         "children": [
           {
-            "id": "15689012b3a6d807",
+            "id": "3db4fad5c9c9118c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -217,20 +217,20 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://platform.openai.com/welcome?step=create",
-                    "title": "Start building - OpenAI API",
+                    "url": "https://chatgpt.com/",
+                    "title": "ChatGPT",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Start building - OpenAI API"
+                  "title": "ChatGPT"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 448,
-        "y": 116,
+        "x": 289,
+        "y": 265,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -238,8 +238,9 @@
       }
     ]
   },
-  "active": "7ff489aaed650c6b",
+  "active": "3db4fad5c9c9118c",
   "lastOpenFiles": [
+    "Gemini Chats/New Chat 1.gemini",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
