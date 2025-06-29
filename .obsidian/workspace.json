@@ -217,7 +217,7 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://accounts.google.com/v3/signin/identifier?continue=https://aistudio.google.com/app/apikey&dsh=S1158757415:1751206080640674&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://aistudio.google.com/app/apikey&ifkv=AdBytiPksmQwrdKqjTRZlXgcZTKnIKNXW1BInHOG2r2tRVPX5pqLUuSXIo4E02R3I-d1bjIyiiyTbA",
+                    "url": "https://accounts.google.com/v3/signin/challenge/selection?TL=ALgCv6yioUu4EI5zWvY4es9x3dbh7BR0s6i1sq2jNHGLMUjufyRoWChGwENBrWtw&continue=https://aistudio.google.com/app/apikey&dsh=S1158757415:1751206080640674&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://aistudio.google.com/app/apikey&ifkv=AdBytiPksmQwrdKqjTRZlXgcZTKnIKNXW1BInHOG2r2tRVPX5pqLUuSXIo4E02R3I-d1bjIyiiyTbA&lid=6",
                     "title": "Вход – Google Аккаунты",
                     "mode": "webview"
                   },
