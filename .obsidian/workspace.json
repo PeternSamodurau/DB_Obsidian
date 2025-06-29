@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45e9ba93c52a450e",
+        "id": "5b0aac05757a654c",
         "type": "tabs",
         "children": [
           {
-            "id": "d27c2684b841ed67",
+            "id": "93488bf7f580afc2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -216,7 +216,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "d27c2684b841ed67",
+  "active": "93488bf7f580afc2",
   "lastOpenFiles": [
     "README.md",
     "Study Java/Git/GIT.md",
