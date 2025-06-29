@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "53a1486155bba52e",
+        "id": "5c6737283bb1f677",
         "type": "tabs",
         "children": [
           {
-            "id": "89200f626aee1286",
+            "id": "15689012b3a6d807",
             "type": "leaf",
             "state": {
-              "type": "gemini-chat-view",
-              "state": {
-                "file": "Gemini Chats/New Chat.gemini"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "New Chat"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -200,7 +198,7 @@
       "chat-with-bard:New Gemini Chat": false
     }
   },
-  "active": "89200f626aee1286",
+  "active": "15689012b3a6d807",
   "lastOpenFiles": [
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
