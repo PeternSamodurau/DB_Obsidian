@@ -11,88 +11,13 @@
             "id": "578c57dcbeba9efc",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "7.docker.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "7.docker"
-            }
-          },
-          {
-            "id": "6cf55e6e651db32a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1.docker 2.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "1.docker 2"
-            }
-          },
-          {
-            "id": "e24b8d84f1a3c595",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2.docker.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "2.docker"
-            }
-          },
-          {
-            "id": "471c5e54d2aab99e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "2.docker 1.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "2.docker 1"
-            }
-          },
-          {
-            "id": "f88b5c3750f0eeeb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1.docker 2.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "1.docker 2"
-            }
-          },
-          {
-            "id": "d82f56b335c79810",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "3.docker.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "3.docker"
-            }
-          },
-          {
-            "id": "3acc52c3192e9a1a",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "3.docker.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "3.docker"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.docker.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 3.docker"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -184,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.docker.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из 3.docker"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -227,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.docker.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 3.docker"
+              "title": "Структура"
             }
           },
           {
@@ -274,13 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3acc52c3192e9a1a",
+  "active": "578c57dcbeba9efc",
   "lastOpenFiles": [
+    "11.docker 1.jpg",
+    "7.docker.jpg",
+    "3.docker.jpg",
     "1.docker 2.jpg",
     "2.docker 1.jpg",
     "2.docker.jpg",
-    "7.docker.jpg",
-    "11.docker 1.jpg",
     "Study Java/Docker/Docker.md",
     "1.docker 1.jpg",
     "1.docker.jpg"
