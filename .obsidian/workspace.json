@@ -195,11 +195,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "obsidian-git:Open Git source control": false,
-      "chat-with-bard:New Gemini Chat": false
+      "chat-with-bard:New Gemini Chat": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "15689012b3a6d807",
   "lastOpenFiles": [
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
     "11.docker 1.jpg",
