@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Study Java/Docker/Docker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Docker"
             }
           },
           {
@@ -196,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "578c57dcbeba9efc",
+  "active": "ea9db0df07ef55ed",
   "lastOpenFiles": [
     "11.docker 1.jpg",
     "7.docker.jpg",
