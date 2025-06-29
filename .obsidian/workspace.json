@@ -217,12 +217,12 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://auth.openai.com/create-account",
-                    "title": "Войти - OpenAI",
+                    "url": "https://platform.openai.com/welcome?step=create",
+                    "title": "Start building - OpenAI API",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Войти - OpenAI"
+                  "title": "Start building - OpenAI API"
                 }
               }
             ]
