@@ -199,7 +199,46 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "15689012b3a6d807",
+  "floating": {
+    "id": "1dc5da46b28173f3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "512f7a8593e50c99",
+        "type": "window",
+        "children": [
+          {
+            "id": "708cce668990912e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7ff489aaed650c6b",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://auth.openai.com/create-account",
+                    "title": "Login - OpenAI",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Login - OpenAI"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7ff489aaed650c6b",
   "lastOpenFiles": [
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
