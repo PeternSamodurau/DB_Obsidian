@@ -199,7 +199,46 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "15689012b3a6d807",
+  "floating": {
+    "id": "1dc5da46b28173f3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "fc3e6ca0c2f85a67",
+        "type": "window",
+        "children": [
+          {
+            "id": "6b15a76f369ad9ef",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "74cf0822ac3ce799",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://accounts.google.com/v3/signin/identifier?continue=https://aistudio.google.com/app/apikey&dsh=S1158757415:1751206080640674&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://aistudio.google.com/app/apikey&ifkv=AdBytiPksmQwrdKqjTRZlXgcZTKnIKNXW1BInHOG2r2tRVPX5pqLUuSXIo4E02R3I-d1bjIyiiyTbA",
+                    "title": "Вход – Google Аккаунты",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Вход – Google Аккаунты"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "74cf0822ac3ce799",
   "lastOpenFiles": [
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
