@@ -218,11 +218,11 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://auth.openai.com/create-account",
-                    "title": "Login - OpenAI",
+                    "title": "Войти - OpenAI",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "Login - OpenAI"
+                  "title": "Войти - OpenAI"
                 }
               }
             ]
