@@ -11,24 +11,10 @@
             "id": "37d5280320210158",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Отправляем контент из Telegram напрямую в Obsidian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Отправляем контент из Telegram напрямую в Obsidian"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -213,8 +199,8 @@
   },
   "active": "37d5280320210158",
   "lastOpenFiles": [
-    "Obsidian/Волков объясняет настройку собственной синхронизации Obsidian.md",
     "Obsidian/Отправляем контент из Telegram напрямую в Obsidian.md",
+    "Obsidian/Волков объясняет настройку собственной синхронизации Obsidian.md",
     "Telegram.md",
     "README.md",
     "Gemini Chats/New Chat 1.gemini",
