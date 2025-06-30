@@ -197,46 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "1dc5da46b28173f3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "512f7a8593e50c99",
-        "type": "window",
-        "children": [
-          {
-            "id": "708cce668990912e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ff489aaed650c6b",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://chatgpt.com/",
-                    "title": "chatgpt.com",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "chatgpt.com"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 289,
-        "y": 265,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7ff489aaed650c6b",
+  "active": "515198e50e7a841d",
   "lastOpenFiles": [
     "Gemini Chats/New Chat 1.gemini",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
