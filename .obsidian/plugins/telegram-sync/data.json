@@ -2,7 +2,7 @@
   "botToken": "e02b6fe910a3c06bab22467917adcd53",
   "encryptionByPinCode": false,
   "botTokenEncrypted": true,
-  "deleteMessagesFromTelegram": false,
+  "deleteMessagesFromTelegram": true,
   "allowedChats": [
     ""
   ],
@@ -31,7 +31,7 @@
     }
   ],
   "defaultMessageDelimiter": true,
-  "parallelMessageProcessing": false,
+  "parallelMessageProcessing": true,
   "processOldMessages": false,
   "processOldMessagesSettings": {
     "lastProcessingDate": 1751286190,
