@@ -1,15 +1,15 @@
 {
-  "botToken": "e02b6fe910a3c06bab22467917adcd53",
+  "botToken": "f59eca2f075e28bc587e5be5fafe8117a7fe75c5f4f3542bd58da87dca5e6b3cc36d2dce8d4529cffa992ed115330632",
   "encryptionByPinCode": false,
   "botTokenEncrypted": true,
   "deleteMessagesFromTelegram": true,
   "allowedChats": [
-    ""
+    "7069245860"
   ],
   "mainDeviceId": "",
   "pluginVersion": "",
   "telegramSessionType": "bot",
-  "telegramSessionId": 20250630152310504,
+  "telegramSessionId": 20250630152507028,
   "betaVersion": "",
   "connectionStatusIndicatorType": "CONSTANT",
   "cacheCleanupAtStartup": false,
