@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c14fe9676ce7c77",
+        "id": "71e4e25e7a90382a",
         "type": "tabs",
         "children": [
           {
-            "id": "d525bd4940d02d70",
+            "id": "f587372f1518eeb0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -197,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d525bd4940d02d70",
+  "active": "ea9db0df07ef55ed",
   "lastOpenFiles": [
     "Telegram.md",
     "Gemini Chats/New Chat 1.gemini",
