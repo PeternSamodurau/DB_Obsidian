@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telegram.md",
+                "file": "Study Java/My study Java on Skillbox/История и особенности языка Java.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Telegram"
+              "title": "История и особенности языка Java"
             }
           }
         ]
@@ -213,9 +213,10 @@
   },
   "active": "37d5280320210158",
   "lastOpenFiles": [
+    "Telegram.md",
+    "Study Java/My study Java on Skillbox/История и особенности языка Java.md",
     "Obsidian/Отправляем контент из Telegram напрямую в Obsidian.md",
     "Obsidian/Волков объясняет настройку собственной синхронизации Obsidian.md",
-    "Telegram.md",
     "README.md",
     "Gemini Chats/New Chat 1.gemini",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
