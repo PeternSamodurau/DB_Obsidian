@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/My study Java on Skillbox/История и особенности языка Java.md",
+                "file": "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "История и особенности языка Java"
+              "title": "1.История и особенности языка Java"
             }
           }
         ]
@@ -211,10 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37d5280320210158",
+  "active": "ea9db0df07ef55ed",
   "lastOpenFiles": [
     "Telegram.md",
-    "Study Java/My study Java on Skillbox/История и особенности языка Java.md",
+    "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
     "Obsidian/Отправляем контент из Telegram напрямую в Obsidian.md",
     "Obsidian/Волков объясняет настройку собственной синхронизации Obsidian.md",
     "README.md",
