@@ -7,7 +7,7 @@
     "7069245860"
   ],
   "mainDeviceId": "",
-  "pluginVersion": "",
+  "pluginVersion": "4.0.0",
   "telegramSessionType": "bot",
   "telegramSessionId": 20250630152507028,
   "betaVersion": "",
@@ -24,8 +24,8 @@
         }
       ],
       "templateFilePath": "",
-      "notePathTemplate": "Telegram/{{content:30}} - {{messageTime:YYYYMMDDHHmmssSSS}}.md",
-      "filePathTemplate": "Telegram/{{file:type}}s/{{file:name}} - {{messageTime:YYYYMMDDHHmmssSSS}}.{{file:extension}}",
+      "notePathTemplate": "Telegram.md",
+      "filePathTemplate": "Telegram",
       "reversedOrder": false,
       "heading": ""
     }
@@ -34,7 +34,7 @@
   "parallelMessageProcessing": true,
   "processOldMessages": false,
   "processOldMessagesSettings": {
-    "lastProcessingDate": 1751286190,
+    "lastProcessingDate": 1751286431,
     "daysLimit": 14,
     "dialogsLimit": 100,
     "messagesLimit": 1000,
