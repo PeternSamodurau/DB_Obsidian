@@ -4,20 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "71e4e25e7a90382a",
+        "id": "b7a25e4e97fc6642",
         "type": "tabs",
         "children": [
           {
-            "id": "f587372f1518eeb0",
+            "id": "81bb0afdc9d0f2e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Telegram.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Telegram"
+            }
+          },
+          {
+            "id": "d7ef97893a9d3451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telegram.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Telegram"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,9 +236,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea9db0df07ef55ed",
+  "active": "d7ef97893a9d3451",
   "lastOpenFiles": [
     "Telegram.md",
+    "README.md",
     "Gemini Chats/New Chat 1.gemini",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
