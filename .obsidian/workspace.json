@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "132b4fe314601351",
+        "id": "8c14fe9676ce7c77",
         "type": "tabs",
         "children": [
           {
-            "id": "515198e50e7a841d",
+            "id": "d525bd4940d02d70",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -197,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "515198e50e7a841d",
+  "active": "ea9db0df07ef55ed",
   "lastOpenFiles": [
+    "Telegram.md",
     "Gemini Chats/New Chat 1.gemini",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
