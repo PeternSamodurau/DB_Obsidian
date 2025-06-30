@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ab12ce0386a9c8dd",
+        "id": "132b4fe314601351",
         "type": "tabs",
         "children": [
           {
-            "id": "3db4fad5c9c9118c",
+            "id": "515198e50e7a841d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -194,9 +194,7 @@
       "quickadd:QuickAdd": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-git:Open Git source control": false,
-      "chat-with-bard:New Gemini Chat": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -218,11 +216,11 @@
                   "type": "webviewer",
                   "state": {
                     "url": "https://chatgpt.com/",
-                    "title": "ChatGPT",
+                    "title": "chatgpt.com",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
-                  "title": "ChatGPT"
+                  "title": "chatgpt.com"
                 }
               }
             ]
@@ -238,7 +236,7 @@
       }
     ]
   },
-  "active": "3db4fad5c9c9118c",
+  "active": "7ff489aaed650c6b",
   "lastOpenFiles": [
     "Gemini Chats/New Chat 1.gemini",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
