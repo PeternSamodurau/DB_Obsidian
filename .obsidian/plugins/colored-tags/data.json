@@ -10,7 +10,9 @@
     "highTextContrast": true
   },
   "knownTags": {
-    "excalidraw": 1
+    "excalidraw": 1,
+    "Java": 2,
+    "Training": 3
   },
   "_version": 3
 }

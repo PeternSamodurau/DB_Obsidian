@@ -4,12 +4,12 @@
   "botTokenEncrypted": true,
   "deleteMessagesFromTelegram": true,
   "allowedChats": [
-    "7069245860"
+    "Peters_exchange_rates_bot"
   ],
   "mainDeviceId": "",
   "pluginVersion": "4.0.0",
   "telegramSessionType": "bot",
-  "telegramSessionId": 20250630152507028,
+  "telegramSessionId": 20250630152826910,
   "betaVersion": "",
   "connectionStatusIndicatorType": "CONSTANT",
   "cacheCleanupAtStartup": false,
