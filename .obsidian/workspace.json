@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
+                "file": "Study Java/Project/resourses/Временная почта для тестов.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.История и особенности языка Java"
+              "title": "Временная почта для тестов"
             }
           }
         ]
@@ -213,9 +213,10 @@
   },
   "active": "d11a58a983aabea0",
   "lastOpenFiles": [
+    "Study Java/Project/resourses/Временная почта для тестов.md",
+    "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
     "Telegram.md",
     "README.md",
-    "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
     "Study Java/My study Java on Skillbox/JUnit5.md",
     "Study Java/My study Java on Skillbox/Mockito.md",
     "Obsidian/Отправляем контент из Telegram напрямую в Obsidian.md",
