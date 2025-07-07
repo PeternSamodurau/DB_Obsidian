@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/resourses/application.properties/Без названия.md",
+                "file": "Study Java/Project/resourses/application.properties/8.hibernate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "8.hibernate"
             }
           }
         ]
@@ -213,8 +213,10 @@
   },
   "active": "d11a58a983aabea0",
   "lastOpenFiles": [
+    "Proect.md",
+    "Study Java/Project/resourses/application.properties/8.hibernate.md",
+    "Study Java/Project/resourses/application.properties/1.name.md",
     "Study Java/Project/resourses/application.properties/4.loger.md",
-    "Study Java/Project/resourses/application.properties/Без названия.md",
     "Study Java/Project/resourses/Временная почта для тестов.md",
     "Study Java/Project/resourses/application.properties/7.postgresql.md",
     "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
@@ -247,7 +249,6 @@
     "1.docker 2.jpg",
     "2.docker 1.jpg",
     "2.docker.jpg",
-    "Study Java/Docker/Docker.md",
     "1.docker 1.jpg",
     "1.docker.jpg"
   ]
