@@ -11,24 +11,10 @@
             "id": "d11a58a983aabea0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Java/Project/resourses/application.properties/8.hibernate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "8.hibernate"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -213,8 +199,8 @@
   },
   "active": "d11a58a983aabea0",
   "lastOpenFiles": [
-    "Proect.md",
     "Study Java/Project/resourses/application.properties/8.hibernate.md",
+    "Proect.md",
     "Study Java/Project/resourses/application.properties/1.name.md",
     "Study Java/Project/resourses/application.properties/4.loger.md",
     "Study Java/Project/resourses/Временная почта для тестов.md",
