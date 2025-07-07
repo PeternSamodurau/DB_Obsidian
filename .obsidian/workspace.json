@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/resourses/Временная почта для тестов.md",
+                "file": "Study Java/Project/resourses/application.properties/7.postgresql.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Временная почта для тестов"
+              "title": "7.postgresql"
             }
           }
         ]
@@ -211,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d11a58a983aabea0",
+  "active": "ea9db0df07ef55ed",
   "lastOpenFiles": [
     "Study Java/Project/resourses/Временная почта для тестов.md",
     "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
