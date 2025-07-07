@@ -30,23 +30,8 @@
               "icon": "lucide-file",
               "title": "Временная почта для тестов"
             }
-          },
-          {
-            "id": "f32724ab850f3d47",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://temp-mail.org/ru/",
-                "title": "Один момент…",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Один момент…"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f32724ab850f3d47",
+  "active": "d11a58a983aabea0",
   "lastOpenFiles": [
     "Study Java/Project/resourses/Временная почта для тестов.md",
     "Study Java/Project/resourses/application.properties/7.postgresql.md",
