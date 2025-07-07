@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/resourses/application.properties/4.loger.md",
+                "file": "Study Java/Project/resourses/application.properties/Без названия.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "4.loger"
+              "title": "Без названия"
             }
           }
         ]
@@ -211,8 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea9db0df07ef55ed",
+  "active": "d11a58a983aabea0",
   "lastOpenFiles": [
+    "Study Java/Project/resourses/application.properties/4.loger.md",
+    "Study Java/Project/resourses/application.properties/Без названия.md",
     "Study Java/Project/resourses/Временная почта для тестов.md",
     "Study Java/Project/resourses/application.properties/7.postgresql.md",
     "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
