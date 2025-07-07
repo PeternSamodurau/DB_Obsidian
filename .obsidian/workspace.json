@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/resourses/application.properties/7.postgresql.md",
+                "file": "Study Java/Project/resourses/Временная почта для тестов.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "7.postgresql"
+              "title": "Временная почта для тестов"
+            }
+          },
+          {
+            "id": "f32724ab850f3d47",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://temp-mail.org/ru/",
+                "title": "Один момент…",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Один момент…"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,9 +226,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d11a58a983aabea0",
+  "active": "f32724ab850f3d47",
   "lastOpenFiles": [
     "Study Java/Project/resourses/Временная почта для тестов.md",
+    "Study Java/Project/resourses/application.properties/7.postgresql.md",
     "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
     "Telegram.md",
     "README.md",
