@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "1.rabbitmq"
             }
+          },
+          {
+            "id": "5bf4d6467621e064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study Java/Liquibase/Без названия.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,8 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d11a58a983aabea0",
+  "active": "ea9db0df07ef55ed",
   "lastOpenFiles": [
+    "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
+    "Study Java/Liquibase/Без названия.md",
+    "Study Java/Liquibase",
     "Study Java/Project/resourses/application.properties/8.hibernate.md",
     "Proect.md",
     "Study Java/Project/resourses/application.properties/1.name.md",
@@ -238,8 +266,6 @@
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
