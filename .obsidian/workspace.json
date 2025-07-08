@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/resourses/application.properties/9.liquibase.md",
+                "file": "Study Java/Project/Liquibase.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "9.liquibase"
+              "title": "Liquibase"
             }
           }
         ],
@@ -238,9 +238,9 @@
   },
   "active": "5bf4d6467621e064",
   "lastOpenFiles": [
+    "Study Java/Project/resourses/application.properties/9.liquibase.md",
     "Study Java/Project/resourses/application.properties/7.postgresql.md",
     "Study Java/Project/resourses/application.properties/8.hibernate.md",
-    "Study Java/Project/resourses/application.properties/9.liquibase.md",
     "Proect.md",
     "application.properties.md",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
