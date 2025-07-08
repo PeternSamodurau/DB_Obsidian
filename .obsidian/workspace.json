@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Liquibase/Liquibase.md",
+                "file": "Study Java/Project/Liquibase.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -240,8 +240,8 @@
   "lastOpenFiles": [
     "Study Java/Project/docker-compose.yml/2.posgresql.md",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
-    "Study Java/Git/GIT.md",
-    "Study Java/Liquibase/Liquibase.md",
+    "Study Java/Project/GIT.md",
+    "Study Java/Project/Liquibase.md",
     "Study Java/Liquibase",
     "Study Java/Project/resourses/application.properties/8.hibernate.md",
     "Proect.md",
