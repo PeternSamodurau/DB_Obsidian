@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/docker-compose.yml/2.posgresql.md",
+                "file": "Telegram.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.posgresql"
+              "title": "Telegram"
             }
           }
         ],
@@ -238,6 +238,8 @@
   },
   "active": "5bf4d6467621e064",
   "lastOpenFiles": [
+    "Proect.md",
+    "application.properties.md",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
     "Study Java/Project/docker-compose.yml/2.posgresql.md",
     "Study Java/Project/resourses/application.properties/1.name.md",
@@ -245,7 +247,6 @@
     "Study Java/Project/GIT.md",
     "Study Java/Liquibase",
     "Study Java/Project/resourses/application.properties/8.hibernate.md",
-    "Proect.md",
     "Study Java/Project/resourses/application.properties/4.loger.md",
     "Study Java/Project/resourses/Временная почта для тестов.md",
     "Study Java/Project/resourses/application.properties/7.postgresql.md",
@@ -265,7 +266,6 @@
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
