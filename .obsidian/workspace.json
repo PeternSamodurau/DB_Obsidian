@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
+                "file": "Study Java/Docker/docker-compose.yml/1.rabbitmq.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Liquibase/Без названия.md",
+                "file": "Study Java/Docker/docker-compose.yml/1.rabbitmq.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "1.rabbitmq"
             }
           }
         ],
@@ -238,8 +238,9 @@
   },
   "active": "ea9db0df07ef55ed",
   "lastOpenFiles": [
-    "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
-    "Study Java/Liquibase/Без названия.md",
+    "Study Java/Git/GIT.md",
+    "Study Java/Liquibase/Liquibase.md",
+    "Study Java/Docker/docker-compose.yml/1.rabbitmq.md",
     "Study Java/Liquibase",
     "Study Java/Project/resourses/application.properties/8.hibernate.md",
     "Proect.md",
@@ -265,7 +266,6 @@
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",

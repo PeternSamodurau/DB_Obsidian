@@ -31,6 +31,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Study Java/Project/docker-compose.yml": "FabDocker",
-  "Study Java/Project/resourses/application.properties": "LiTableProperties"
+  "Study Java/Project/resourses/application.properties": "LiTableProperties",
+  "Study Java/Docker/docker-compose.yml": "FabDocker"
 }
