@@ -35,24 +35,10 @@
             "id": "5bf4d6467621e064",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Telegram.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Telegram"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
@@ -236,7 +222,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bf4d6467621e064",
+  "active": "ea9db0df07ef55ed",
   "lastOpenFiles": [
     "Proect.md",
     "application.properties.md",
