@@ -35,10 +35,24 @@
             "id": "5bf4d6467621e064",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Study Java/Project/resourses/application.properties/9.liquibase.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "9.liquibase"
             }
           }
         ],
@@ -224,6 +238,9 @@
   },
   "active": "5bf4d6467621e064",
   "lastOpenFiles": [
+    "Study Java/Project/resourses/application.properties/7.postgresql.md",
+    "Study Java/Project/resourses/application.properties/8.hibernate.md",
+    "Study Java/Project/resourses/application.properties/9.liquibase.md",
     "Proect.md",
     "application.properties.md",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
@@ -232,10 +249,8 @@
     "Study Java/Project/Liquibase.md",
     "Study Java/Project/GIT.md",
     "Study Java/Liquibase",
-    "Study Java/Project/resourses/application.properties/8.hibernate.md",
     "Study Java/Project/resourses/application.properties/4.loger.md",
     "Study Java/Project/resourses/Временная почта для тестов.md",
-    "Study Java/Project/resourses/application.properties/7.postgresql.md",
     "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
     "Telegram.md",
     "README.md",
@@ -251,7 +266,6 @@
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
