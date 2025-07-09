@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/Системные переменные.md",
+                "file": "Study Java/Project/Переменные среды пользователя.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Системные переменные"
+              "title": "Переменные среды пользователя"
             }
           }
         ],
@@ -239,7 +239,7 @@
   "active": "5bf4d6467621e064",
   "lastOpenFiles": [
     "Study Java/Project/Liquibase.md",
-    "Study Java/Project/Системные переменные.md",
+    "Study Java/Project/Переменные среды пользователя.md",
     "Study Java/Project/GIT.md",
     "Study Java/Project/resourses/application.properties/1.name.md",
     "Study Java/Project/resourses/application.properties/9.liquibase.md",
