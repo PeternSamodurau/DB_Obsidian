@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/Liquibase.md",
+                "file": "Study Java/Project/Системные переменные.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Liquibase"
+              "title": "Системные переменные"
             }
           }
         ],
@@ -238,9 +238,10 @@
   },
   "active": "5bf4d6467621e064",
   "lastOpenFiles": [
-    "Study Java/Project/resourses/application.properties/1.name.md",
-    "Study Java/Project/Liquibase.md",
     "Study Java/Project/GIT.md",
+    "Study Java/Project/Системные переменные.md",
+    "Study Java/Project/Liquibase.md",
+    "Study Java/Project/resourses/application.properties/1.name.md",
     "Study Java/Project/resourses/application.properties/9.liquibase.md",
     "Study Java/Project/resourses/application.properties/7.postgresql.md",
     "Study Java/Project/resourses/application.properties/8.hibernate.md",
@@ -250,7 +251,7 @@
     "Study Java/Project/docker-compose.yml/2.posgresql.md",
     "Study Java/Liquibase",
     "Study Java/Project/resourses/application.properties/4.loger.md",
-    "Study Java/Project/resourses/Временная почта для тестов.md",
+    "Study Java/Project/Временная почта для тестов.md",
     "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
     "Telegram.md",
     "README.md",
@@ -265,7 +266,6 @@
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
