@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/resourses/application.properties/1.name.md",
+                "file": "Study Java/Project/Liquibase.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.name"
+              "title": "Liquibase"
             }
           }
         ],
@@ -238,6 +238,7 @@
   },
   "active": "5bf4d6467621e064",
   "lastOpenFiles": [
+    "Study Java/Project/resourses/application.properties/1.name.md",
     "Study Java/Project/Liquibase.md",
     "Study Java/Project/GIT.md",
     "Study Java/Project/resourses/application.properties/9.liquibase.md",
@@ -247,7 +248,6 @@
     "application.properties.md",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
     "Study Java/Project/docker-compose.yml/2.posgresql.md",
-    "Study Java/Project/resourses/application.properties/1.name.md",
     "Study Java/Liquibase",
     "Study Java/Project/resourses/application.properties/4.loger.md",
     "Study Java/Project/resourses/Временная почта для тестов.md",
