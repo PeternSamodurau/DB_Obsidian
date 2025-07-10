@@ -30,4 +30,4 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
   
  Дополнительно: Задаем переменную окружения для активного профиля, если нужно.  
 Если вы используете профиль 'dev' в локальной разработке:  
-# ENV SPRING_PROFILES_ACTIVE=default # или dev, если нужно для Docker-окружения
+ENV SPRING_PROFILES_ACTIVE=default # или dev, если нужно для Docker-окружения
