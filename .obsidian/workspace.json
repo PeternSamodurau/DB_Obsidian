@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/Нагрузочное тестирование JMeter.md",
+                "file": "Study Java/Project/Dockerfile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Нагрузочное тестирование JMeter"
+              "title": "Dockerfile"
             }
           }
         ],
@@ -238,8 +238,9 @@
   },
   "active": "5bf4d6467621e064",
   "lastOpenFiles": [
-    "Study Java/Project/Testcontainers.md",
     "Study Java/Project/Нагрузочное тестирование JMeter.md",
+    "Study Java/Project/Dockerfile.md",
+    "Study Java/Project/Testcontainers.md",
     "Study Java/Project/Переменные среды пользователя.md",
     "Study Java/Project/Liquibase.md",
     "Study Java/Project/GIT.md",
@@ -265,7 +266,6 @@
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
