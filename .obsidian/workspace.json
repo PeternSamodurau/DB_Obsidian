@@ -35,24 +35,10 @@
             "id": "5bf4d6467621e064",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Java/Project/(.env).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "(.env)"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
@@ -240,6 +226,8 @@
   "lastOpenFiles": [
     "Study Java/Project/Dockerfile.md",
     "Study Java/Project/(.env).md",
+    "Study Java/Project/Временная почта для тестов.md",
+    "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
     "Study Java/Project/Без названия",
     "Study Java/Project/Testcontainers.md",
     "Study Java/Project/Нагрузочное тестирование JMeter.md",
@@ -252,11 +240,9 @@
     "Study Java/Project/resourses/application.properties/8.hibernate.md",
     "Proect.md",
     "application.properties.md",
-    "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
     "Study Java/Project/docker-compose.yml/2.posgresql.md",
     "Study Java/Liquibase",
     "Study Java/Project/resourses/application.properties/4.loger.md",
-    "Study Java/Project/Временная почта для тестов.md",
     "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
     "Telegram.md",
     "README.md",

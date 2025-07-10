@@ -1,4 +1,7 @@
-# Dockerfile для rest-service  
+[[Proect]]
+
+ Dockerfile для rest-service  
+ 
  Используем легковесный образ JRE (Java Runtime Environment) для финального образа,  
 так как нам нужен только запуск приложения, а не полная JDK.  
 'focal' - это кодовое имя для Ubuntu 20.04 LTS, обеспечивающее стабильную базу.  
