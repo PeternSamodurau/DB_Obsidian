@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/Dockerfile.md",
+                "file": "Study Java/Project/Без названия.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dockerfile"
+              "title": "Без названия"
             }
           }
         ],
@@ -238,8 +238,10 @@
   },
   "active": "5bf4d6467621e064",
   "lastOpenFiles": [
-    "Study Java/Project/Testcontainers.md",
     "Study Java/Project/Dockerfile.md",
+    "Study Java/Project/Без названия.md",
+    "Study Java/Project/Без названия",
+    "Study Java/Project/Testcontainers.md",
     "Study Java/Project/Нагрузочное тестирование JMeter.md",
     "Study Java/Project/Переменные среды пользователя.md",
     "Study Java/Project/Liquibase.md",
@@ -265,7 +267,6 @@
     "Gemini Chats/New Chat 1.gemini",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
