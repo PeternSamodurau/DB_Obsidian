@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/Без названия.md",
+                "file": "Study Java/Project/(.env).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "(.env)"
             }
           }
         ],
@@ -239,7 +239,7 @@
   "active": "5bf4d6467621e064",
   "lastOpenFiles": [
     "Study Java/Project/Dockerfile.md",
-    "Study Java/Project/Без названия.md",
+    "Study Java/Project/(.env).md",
     "Study Java/Project/Без названия",
     "Study Java/Project/Testcontainers.md",
     "Study Java/Project/Нагрузочное тестирование JMeter.md",
