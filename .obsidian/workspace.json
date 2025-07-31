@@ -40,9 +40,33 @@
               "icon": "lucide-file",
               "title": "2.Описание бизнес-задачи"
             }
+          },
+          {
+            "id": "e05338fde5a02eb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice Java/Без названия.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,11 +246,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c59061daa3196aa5",
+  "active": "ea9db0df07ef55ed",
   "lastOpenFiles": [
+    "Practice Java/2.Описание бизнес-задачи.md",
+    "Practice Java/Без названия.md",
     "2.Описание бизнес-задачи.pdf",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
-    "Practice Java/2.Описание бизнес-задачи.md",
     "Practice Java/1.Телеграмм бот Crypto Bot.md",
     "docker-compose.yml.md",
     "Study Java/My study Java on Skillbox/JUnit5.md",
