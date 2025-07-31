@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Java/Телеграмм бот Crypto_bot.md",
+                "file": "Practice Java/Телеграмм бот Crypto Bot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Телеграмм бот Crypto_bot"
+              "title": "Телеграмм бот Crypto Bot"
             }
           }
         ],
@@ -248,7 +248,7 @@
   },
   "active": "c59061daa3196aa5",
   "lastOpenFiles": [
-    "Practice Java/Телеграмм бот Crypto_bot.md",
+    "Practice Java/Телеграмм бот Crypto Bot.md",
     "Practice Java",
     "Telegram.md",
     "Study Java/Project/Dockerfile.md",
