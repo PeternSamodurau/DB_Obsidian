@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Java/1.Телеграмм бот Crypto Bot.md",
-                "mode": "source",
+                "file": "Practice Java/2.Описание бизнес-задачи.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.Телеграмм бот Crypto Bot"
+              "title": "2.Описание бизнес-задачи"
             }
           },
           {
