@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Java/Без названия.md",
+                "file": "Practice Java/3.Техническое задание.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "3.Техническое задание"
             }
           }
         ],
@@ -246,13 +246,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea9db0df07ef55ed",
+  "active": "e05338fde5a02eb9",
   "lastOpenFiles": [
+    "Practice Java/1.Телеграмм бот Crypto Bot.md",
     "Practice Java/2.Описание бизнес-задачи.md",
-    "Practice Java/Без названия.md",
+    "Practice Java/3.Техническое задание.md",
     "2.Описание бизнес-задачи.pdf",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
-    "Practice Java/1.Телеграмм бот Crypto Bot.md",
     "docker-compose.yml.md",
     "Study Java/My study Java on Skillbox/JUnit5.md",
     "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
