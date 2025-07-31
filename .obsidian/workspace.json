@@ -11,10 +11,24 @@
             "id": "5bf4d6467621e064",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Practice Java/1.Телеграмм бот Crypto Bot.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1.Телеграмм бот Crypto Bot"
             }
           },
           {
@@ -65,8 +79,7 @@
               "title": "1.Телеграмм бот Crypto Bot"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,11 +259,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e05338fde5a02eb9",
+  "active": "5bf4d6467621e064",
   "lastOpenFiles": [
+    "Practice Java/1.Телеграмм бот Crypto Bot.md",
     "Study Java/Project/GIT.md",
     "Practice Java/3.Техническое задание.md",
-    "Practice Java/1.Телеграмм бот Crypto Bot.md",
     "Practice Java/2.Описание бизнес-задачи.md",
     "2.Описание бизнес-задачи.pdf",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
