@@ -40,9 +40,33 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
+          },
+          {
+            "id": "c59061daa3196aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice Java/Без названия.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Без названия"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,8 +246,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bf4d6467621e064",
+  "active": "ea9db0df07ef55ed",
   "lastOpenFiles": [
+    "Practice Java/Без названия.md",
+    "Practice Java",
     "Telegram.md",
     "Study Java/Project/Dockerfile.md",
     "Study Java/Project/(.env).md",
@@ -252,7 +278,6 @@
     "Obsidian/Волков объясняет настройку собственной синхронизации Obsidian.md",
     "Gemini Chats/New Chat 1.gemini",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts",
     "Gemini Chats/New Chat.gemini",
     "Gemini Chats",
