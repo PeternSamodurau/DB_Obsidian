@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Java/Без названия.md",
+                "file": "Practice Java/Телеграмм бот Crypto_bot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Телеграмм бот Crypto_bot"
             }
           }
         ],
@@ -246,9 +246,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea9db0df07ef55ed",
+  "active": "c59061daa3196aa5",
   "lastOpenFiles": [
-    "Practice Java/Без названия.md",
+    "Practice Java/Телеграмм бот Crypto_bot.md",
     "Practice Java",
     "Telegram.md",
     "Study Java/Project/Dockerfile.md",
