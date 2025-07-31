@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d11a58a983aabea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1.rabbitmq"
-            }
-          },
-          {
             "id": "5bf4d6467621e064",
             "type": "leaf",
             "state": {
@@ -66,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,10 +224,10 @@
   },
   "active": "c59061daa3196aa5",
   "lastOpenFiles": [
-    "Practice Java/1.Телеграмм бот Crypto Bot.md",
-    "Practice Java/2.Описание бизнес-задачи.md",
-    "docker-compose.yml.md",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
+    "Practice Java/2.Описание бизнес-задачи.md",
+    "Practice Java/1.Телеграмм бот Crypto Bot.md",
+    "docker-compose.yml.md",
     "Study Java/My study Java on Skillbox/JUnit5.md",
     "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
     "Practice Java",
