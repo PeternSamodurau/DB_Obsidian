@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Java/3.Техническое задание.md",
+                "file": "Study Java/Project/GIT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3.Техническое задание"
+              "title": "GIT"
             }
           }
         ],
@@ -248,9 +248,9 @@
   },
   "active": "e05338fde5a02eb9",
   "lastOpenFiles": [
+    "Practice Java/3.Техническое задание.md",
     "Practice Java/1.Телеграмм бот Crypto Bot.md",
     "Practice Java/2.Описание бизнес-задачи.md",
-    "Practice Java/3.Техническое задание.md",
     "2.Описание бизнес-задачи.pdf",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
     "docker-compose.yml.md",
