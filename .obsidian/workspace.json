@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Java/1.Телеграмм бот Crypto Bot.md",
+                "file": "Practice Java/2.Описание бизнес-задачи.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1.Телеграмм бот Crypto Bot"
+              "title": "2.Описание бизнес-задачи"
             }
           }
         ],
@@ -248,8 +248,9 @@
   },
   "active": "c59061daa3196aa5",
   "lastOpenFiles": [
-    "Practice Java/Описание бизнес-задачи.md",
     "Practice Java/1.Телеграмм бот Crypto Bot.md",
+    "Practice Java/2.Описание бизнес-задачи.md",
+    "docker-compose.yml.md",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
     "Study Java/My study Java on Skillbox/JUnit5.md",
     "Study Java/My study Java on Skillbox/1.История и особенности языка Java.md",
@@ -276,7 +277,6 @@
     "README.md",
     "Study Java/My study Java on Skillbox/Mockito.md",
     "Obsidian/Отправляем контент из Telegram напрямую в Obsidian.md",
-    "Obsidian/Волков объясняет настройку собственной синхронизации Obsidian.md",
     "Gemini Chats/New Chat 1.gemini",
     "copilot-custom-prompts",
     "Gemini Chats/New Chat.gemini",
