@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Java/2.Описание бизнес-задачи.md",
+                "file": "Practice Java/3.Техническое задание.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2.Описание бизнес-задачи"
+              "title": "3.Техническое задание"
             }
           },
           {
@@ -261,10 +261,11 @@
   },
   "active": "5bf4d6467621e064",
   "lastOpenFiles": [
+    "3.Техническое задание.pdf",
+    "Practice Java/2.Описание бизнес-задачи.md",
     "Practice Java/1.Телеграмм бот Crypto Bot.md",
     "Study Java/Project/GIT.md",
     "Practice Java/3.Техническое задание.md",
-    "Practice Java/2.Описание бизнес-задачи.md",
     "2.Описание бизнес-задачи.pdf",
     "Study Java/Project/docker-compose.yml/1.rabbitmq.md",
     "docker-compose.yml.md",
@@ -290,7 +291,6 @@
     "Study Java/Liquibase",
     "Study Java/Project/resourses/application.properties/4.loger.md",
     "README.md",
-    "Study Java/My study Java on Skillbox/Mockito.md",
     "Gemini Chats/New Chat 1.gemini",
     "copilot-custom-prompts",
     "Gemini Chats/New Chat.gemini",
