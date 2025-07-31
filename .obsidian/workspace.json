@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Study Java/Project/GIT.md",
+                "file": "Practice Java/1.Телеграмм бот Crypto Bot.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "1.Телеграмм бот Crypto Bot"
             }
           }
         ],
@@ -248,6 +248,7 @@
   },
   "active": "e05338fde5a02eb9",
   "lastOpenFiles": [
+    "Study Java/Project/GIT.md",
     "Practice Java/3.Техническое задание.md",
     "Practice Java/1.Телеграмм бот Crypto Bot.md",
     "Practice Java/2.Описание бизнес-задачи.md",
@@ -266,7 +267,6 @@
     "Study Java/Project/Нагрузочное тестирование JMeter.md",
     "Study Java/Project/Переменные среды пользователя.md",
     "Study Java/Project/Liquibase.md",
-    "Study Java/Project/GIT.md",
     "Study Java/Project/resourses/application.properties/1.name.md",
     "Study Java/Project/resourses/application.properties/9.liquibase.md",
     "Study Java/Project/resourses/application.properties/7.postgresql.md",
